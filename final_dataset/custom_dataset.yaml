@@ -1,5 +1,7 @@
+
+
 train: final_dataset/train/images
 val: final_dataset/valid/images
 
-nc: 2
-names: ['napa_cabbage', 'cabbage']
+nc: 3
+names: ['napa_cabbage', 'cabbage','orange']
